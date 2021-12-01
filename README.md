@@ -11,12 +11,18 @@ YouTube を観て作成しました。
 ## 使い方
 
 下記ターミナルにて
-`git clone https://github.com/nuovotaka/CryptoDashboard.git`
+
+```
+git clone https://github.com/nuovotaka/CryptoDashboard.git
+
+```
 
 `node -v`でバージョン情報が表示されなければ、「Node.js」がインストールされていません。
 インストールをしてください。
 
-`npm install`
+```
+npm install
+```
 
 ブラウザにて`localhost:3000`で表示されます。
 
