@@ -7,6 +7,8 @@ YouTube を観て作成しました。
 ## API キーの取得
 
 [RapidAPI](https://rapidapi.com/)を利用しているのでそちらでキーを取得してください。
+[Alpha Vantage API](https://rapidapi.com/alphavantage/api/alpha-vantage/)の
+`CURRENCY_EXCHANGE_RATE(Crypto)`の`X-RapidAPI-Key`の値があなたのキーになります。
 
 ## 使い方
 
