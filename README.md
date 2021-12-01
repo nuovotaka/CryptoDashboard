@@ -27,6 +27,10 @@ cd CryptoDashboard
 npm install
 ```
 
+```
+npm run start
+```
+
 ブラウザにて`localhost:3000`で表示されます。
 
 ### 参照元
