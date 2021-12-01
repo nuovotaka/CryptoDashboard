@@ -14,7 +14,10 @@ YouTube を観て作成しました。
 
 ```
 git clone https://github.com/nuovotaka/CryptoDashboard.git
+```
 
+```
+cd CryptoDashboard
 ```
 
 `node -v`でバージョン情報が表示されなければ、「Node.js」がインストールされていません。
