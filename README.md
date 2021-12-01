@@ -27,6 +27,12 @@ cd CryptoDashboard
 npm install
 ```
 
+あなたの API_KEY を`Your_API_KEY`に設定してください。
+
+```
+echo REACT_APP_RAPID_API_KEY=Your_API_KEY > .env
+```
+
 ```
 npm run start
 ```
