@@ -35,8 +35,11 @@ npm install
 echo REACT_APP_RAPID_API_KEY=Your_API_KEY > .env
 ```
 
+ターミナルのタブを２つ開いて下記をバックエンドから実行してください。
+
 ```
-npm run start
+npm run start:backend
+npm run start:frontend
 ```
 
 ブラウザにて`localhost:3000`で表示されます。
